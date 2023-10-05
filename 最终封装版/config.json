@@ -1,0 +1,8 @@
+{
+    "indices": [0, 1, 2, 3],
+    "order": [0, 1, 2, 3],
+    "separator": "_",
+    "output_folder": "output_folder666",
+    "csv_file_name": "output.csv",
+    "template_file_name": "your_template_document.docx"
+}
